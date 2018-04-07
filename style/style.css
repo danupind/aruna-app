@@ -1,0 +1,25 @@
+.body {
+  background-color:
+}
+
+.container {
+  max-width: 100% !important;
+}
+
+.navbar {
+  background-color: orange;
+  text-align: center;
+}
+
+.btn-group {
+  margin-left: 20px !important;
+}
+.btn-primary {
+  display: inline !important;
+  color: white;
+  width: 230px !important;
+}
+
+.body-text {
+  margin: 20px;
+}
