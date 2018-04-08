@@ -10,6 +10,7 @@ class Contact extends Component {
       <div>
         <Navbar />
         <div className="body-text">
+          <br />
           <h3>Location and Contact information</h3>
         </div>
       </div>

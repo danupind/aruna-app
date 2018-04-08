@@ -10,6 +10,7 @@ class About extends Component {
       <div>
         <Navbar />
         <div className="body-text">
+          <br />
           <h3>About alma</h3>
         </div>
       </div>

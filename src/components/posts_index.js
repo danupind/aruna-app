@@ -10,22 +10,14 @@ class PostsIndex extends Component {
     this.props.fetchPosts();
   }
 
-  renderPosts() {
-    return _.map(this.props.posts, post => {
-      return (
-        <li className="list-group-item" key={post.id}>
-          {post.title}
-        </li>
-      );
-    });
-  }
-
   render() {
     return (
       <div>
         <Navbar />
         <div className="body-text">
-          <h3>Home</h3>
+          <br />
+          <h3>Welcome To Aruna's Abacus classes</h3>
+          <p></p>
         </div>
       </div>
     );

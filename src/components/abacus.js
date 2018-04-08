@@ -15,6 +15,7 @@ class Abacus extends Component {
       <div>
         <Navbar />
         <div className="body-text">
+          <br />
           <h3>What is Abacus</h3>
         </div>
       </div>

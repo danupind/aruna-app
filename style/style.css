@@ -1,5 +1,7 @@
-.body {
-  background-color:
+body {
+  background: url('../src/images/abacus.jpg') no-repeat;
+  background-size: cover; /** moved this property down */
+  background-color: #FF8002 !important;
 }
 
 .container {
@@ -12,6 +14,7 @@
 }
 
 .btn-group {
+  font-family: fantasy;
   margin-left: 20px !important;
 }
 .btn-primary {
@@ -21,5 +24,12 @@
 }
 
 .body-text {
-  margin: 20px;
+  margin: 20px 15px 20px 20px;
+  background-color: #ffffff9c !important;
+  color: black;
+  font-family: fantasy;
+}
+
+h3 {
+  text-align: center;
 }

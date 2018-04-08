@@ -10,6 +10,7 @@ class Levels extends Component {
       <div>
         <Navbar />
         <div className="body-text">
+          <br />
           <h3>Course Levels</h3>
         </div>
       </div>

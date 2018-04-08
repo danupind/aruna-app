@@ -8,7 +8,7 @@ class Navbar extends Component {
     return (
         <div className="btn-group">
           <Link className="btn btn-primary btn-lg" to="/">
-            Home
+            Welcome
           </Link>
           <Link className="btn btn-primary btn-lg" to="/about">
             About ALMA
