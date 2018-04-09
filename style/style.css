@@ -21,15 +21,27 @@ body {
   display: inline !important;
   color: white;
   width: 230px !important;
+
+  .active {
+    background-color: green !important;
+}
 }
 
 .body-text {
   margin: 20px 15px 20px 20px;
-  background-color: #ffffff9c !important;
+  background-color: #ffffffd4 !important;
   color: black;
   font-family: fantasy;
 }
 
-h3 {
+h1 {
   text-align: center;
+}
+
+h3 {
+  margin-left: 5px;
+}
+
+p {
+  margin-left: 5px;
 }

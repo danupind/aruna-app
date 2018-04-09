@@ -11,13 +11,13 @@ class Navbar extends Component {
             Welcome
           </Link>
           <Link className="btn btn-primary btn-lg" to="/about">
-            About ALMA
-          </Link>
-          <Link className="btn btn-primary btn-lg" to="/abacus">
-            What is Abacus
+            About A.L.M.A
           </Link>
           <Link className="btn btn-primary btn-lg" to="/levels">
             Course Levels
+          </Link>
+          <Link className="btn btn-primary btn-lg" to="/abacus">
+            Benefits of Abacus
           </Link>
           <Link className="btn btn-primary btn-lg" to="/fees">
             Fees & Materials
