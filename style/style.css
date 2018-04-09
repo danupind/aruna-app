@@ -21,10 +21,6 @@ body {
   display: inline !important;
   color: white;
   width: 230px !important;
-
-  .active {
-    background-color: green !important;
-}
 }
 
 .body-text {
