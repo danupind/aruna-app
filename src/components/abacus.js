@@ -22,7 +22,6 @@ class Abacus extends Component {
           <p>These beads, strings can be combinatioed to represent decimals places and integers. And they can be moved to different positions to perform 4 basic arithmetic actions: addition, subtraction, multiplication and division.</p>
           <h3>Benefits of Mental Abacus</h3>
           <p>Abacus has been used in schools to help in teaching the numeral system and arithmetic to kids all around the World. As an early step is it taught with an instrument, and after students gain enough confidence it is then taught mentally. Here students perform rapid calculations using their mind as an imaginary Abacus.</p>
-          <br />
           <p>
             <ul>
               <li>Learning such a skill at an young age expands the kid's mind vastly to new ideas and out-of-the-box thinking.</li>

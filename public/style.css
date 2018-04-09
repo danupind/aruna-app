@@ -1,5 +1,5 @@
 body {
-  background: url('../src/images/abacus.jpg') no-repeat;
+  background: url('./images/abacus.jpg') no-repeat;
   background-size: cover; /** moved this property down */
   background-color: #FF8002 !important;
 }
@@ -27,7 +27,7 @@ body {
   margin: 20px 15px 20px 20px;
   background-color: #ffffffd4 !important;
   color: black;
-  font-family: fantasy;
+  font-family: Arial;
 }
 
 h1 {
