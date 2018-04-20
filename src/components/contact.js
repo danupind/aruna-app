@@ -16,8 +16,8 @@ class Contact extends Component {
           <p>Address:</p>
           <br />
           <h3>Phone & Email</h3>
-          <p>For inquiries about classes please call/sms/whatssap at <b>+91 9844266710</b></p>
-          <p>You can also email her at <b>aruna.anupindi@gmail.com</b></p>
+          <p>For inquiries about classes please call/sms/WhatsApp at <b>+91 9844266710</b></p>
+          <p>You can also email her at <b>aruna.abacus@gmail.com</b></p>
           <br />
         </div>
       </div>

@@ -14,20 +14,22 @@ body {
 }
 
 .btn-group {
-  font-family: fantasy;
+  font-family: Arial, Helvetica, sans-serif;
   margin-left: 20px !important;
+  width: 1840px !important;
 }
 .btn-primary {
   display: inline !important;
   color: white;
-  width: 230px !important;
+  width: 307px !important;
 }
 
 .body-text {
   margin: 20px 15px 20px 20px;
   background-color: #ffffffd4 !important;
   color: black;
-  font-family: Arial;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.15rem;
 }
 
 h1 {
